@@ -1,0 +1,12 @@
+# Usual editor backups
+*~
+.*.swp
+*.bak
+
+# Maven target dir
+target/
+
+# Eclipsish metadata
+.project
+.classpath
+.settings/

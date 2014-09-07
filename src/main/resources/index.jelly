@@ -1,0 +1,8 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  Adds a new build choosing strategy to the
+  <a href="http://wiki.jenkins-ci.org/display/JENKINS/Git+Plugin">Jenkins GIT plugin</a>.<br />
+  Causes each branch to be considered for building, even if they share the same revision.
+</div>
